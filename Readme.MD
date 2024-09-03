@@ -1,6 +1,6 @@
 # Email Data Processing for Gen AI
 
-This project is designed to process email data from .mbox files and convert it into a structured CSV format with additional features. We then anonimize the emails making it suitable for further analysis or use in generative AI applications.
+This project is designed to process email data from .mbox files and convert it into a structured CSV format with additional features. We then anonymize the emails, making them suitable for further analysis to be use in RAG Application
 
 ## Project Structure
 
